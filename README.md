@@ -1,2 +1,2 @@
-# ATS
-Arac Takip Sistemleri
+# TS
+Takip Sistemleri
